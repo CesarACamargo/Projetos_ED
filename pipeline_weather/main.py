@@ -1,5 +1,5 @@
 # from src.extract_data import extract_weather_data
-# from src.load_data import load_data
+# from src.load_data import load_weather_data
 # from src.transform_data import data_transformations
 
 # import os
@@ -26,7 +26,7 @@
 #         df = data_transformations()
         
 #         logging.info("\n⬆️ ETAPA 3: LOAD")
-#         load_data(table_name, df)
+#         load_weather_data(table_name, df)
         
 #         print("\n" + "="*60)
 #         print("✅ Pipeline concluído com sucesso!")

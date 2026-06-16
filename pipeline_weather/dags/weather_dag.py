@@ -1,7 +1,8 @@
 from datetime import datetime, timedelta
 from airflow.decorators import dag, task
 from pathlib import Path
-import sys, os
+import sys
+import os
 
 sys.path.insert(0, '/opt/airflow/src')
 
@@ -46,7 +47,8 @@ def weather_pipeline():
     @task
     def load():
         import pandas as pd
-        df = df.read.parquet('/opt/airflow/data/temp_data.parquet')
+
+        df = pd.read_parquet('/opt/airflow/data/temp_data.parquet')
         load_weather_data('sp_weather', df)
         
     extract() >> transform() >> load()

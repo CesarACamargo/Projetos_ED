@@ -14,7 +14,7 @@ load_dotenv(env_path)
 user = os.getenv('user')
 password = os.getenv('password')
 database = os.getenv('database')
-host = '172.17.0.2'
+host = os.getenv('DB_HOST')
 
 def get_engine():
     logging.info(f"⚡ Conectando em {host}:5432/{database}")
