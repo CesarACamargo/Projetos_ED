@@ -130,3 +130,11 @@ Através deste projeto adquiri experiência prática em:
 * Estruturação de projetos de Engenharia de Dados
 
 Além dos aspectos técnicos, o projeto permitiu compreender melhor o fluxo completo de ingestão e processamento de dados utilizado em ambientes reais de Engenharia de Dados.
+
+## 🔮 Próximas Melhorias
+
+- Coletar dados de múltiplas cidades brasileiras
+- Implementar validações de qualidade de dados
+- Criar dashboard para visualização dos dados
+- Adicionar testes automatizados
+- Implementar monitoramento e alertas do pipeline
