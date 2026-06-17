@@ -370,8 +370,6 @@ rm -rf logs/*
 
 ---
 
-## ⭐ Se inscreve no canal!
-
 Se este projeto te ajudou, não esquece de:
 
 1. ⭐ Dar uma **star** no repositório
@@ -380,8 +378,5 @@ Se este projeto te ajudou, não esquece de:
 ---
 
 <div align="center">
-
-**Feito com ❤️ por [@vbluuiza](https://youtube.com/@vbluuiza)**
-
 
 </div>
