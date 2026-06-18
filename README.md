@@ -112,13 +112,10 @@ Pretendo evoluir meus conhecimentos através de projetos envolvendo:
 
 * Data Warehousing
 * Modelagem Dimensional
-* Data Lakes
+* Databricks
+* DBT
 * Apache Spark
-* Apache Kafka
-* dbt
-* AWS
-* Azure Data Factory
-* Terraform
+* Apache NiFi
 * Monitoramento e Observabilidade
 
 ---
@@ -133,9 +130,9 @@ Por isso, este repositório será continuamente atualizado com novos projetos e 
 
 # 📫 Contato
 
-LinkedIn: /in/cesaracamargo
+LinkedIn: www.linkedin.com/in/cesaracamargo
 
-GitHub: CesarACamargo
+GitHub: https://github.com/CesarACamargo
 
 E-mail: jobs.cabbie561@slmail.me
 
